@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mageltrade.com/sitemap.xml
